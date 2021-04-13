@@ -16,6 +16,13 @@ For getting XRD data special diffractometer equipped with proprietary analysis s
 
 Unfortunately, nowadays there is no convenient free application, which not requires installation for intermediate rapid graph analysis. This toolkit fulfills this gap by providing user-friendly interface for such kind of tasks.
 
+
+## Preview
+<center>
+  <img src="assets/Preview.gif" width="100%" />
+</center>
+
+
 ## Main Features & Architectural Notes
 
 - :art: Styled with a utility-first CSS framework - **Tailwind CSS**
