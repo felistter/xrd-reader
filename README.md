@@ -2,7 +2,10 @@
   <a href="#">
     <img src="assets/XRD.jpg" alt="XRD reader" width="400" />
   </a>
-</p>
+  <br/>
+  <img src="https://github.com/felistter/xrd-reader/actions/workflows/react.yml/badge.svg" alt="XRD Reader CI" />
+ </p>
+ 
 
 <p align="center">
 XRD reader is a scientific toolkit for rapid overview XRD data of different materials</p>
