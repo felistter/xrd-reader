@@ -41,7 +41,7 @@ Unfortunately, nowadays there is no convenient free application, which not requi
 ```bash
 git clone https://github.com/felistter/xrd-reader.git
 cd xrd-reader 
-npx install
+npm install
 npx craco start
 ```
 
