@@ -28,5 +28,5 @@ jobs:
     - name: craco install, build and test
       run: | 
         npm install
-        npx craco test
+        npx craco test --passWithNoTests
         npx craco build
