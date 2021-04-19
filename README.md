@@ -8,7 +8,7 @@
  
 
 <p align="center">
-XRD reader is a scientific toolkit for rapid overview XRD data of different materials</p>
+Scientific toolkit for rapid overview XRD data of different materials</p>
 <br>
 
 ## Project Overview
